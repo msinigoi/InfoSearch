@@ -10,8 +10,8 @@ class InfoSearch {
     private static final String MUSIC_STRING = "music";
     private static final String ERROR_INVALID_FIELD_STRING = "ERROR: invalid field, insert music or movie.";
     private static final String ERROR_VALUE_STRING = "ERROR: value is null.";
-    public static final String TAB_CHAR = "  ";
-    public static final String SPACE_CHAR = " ";
+    private static final String TAB_CHAR = "  ";
+    private static final String SPACE_CHAR = " ";
     private String field;
     private String value = "";
 

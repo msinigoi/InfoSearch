@@ -1,0 +1,1389 @@
+{"albums": {
+    "href": "https://api.spotify.com/v1/search?query=%22dinosaur+jr%22&offset=0&limit=20&type=album",
+    "items": [
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/267VY6GX5LyU5c9M85ECZQ",
+            "id": "267VY6GX5LyU5c9M85ECZQ",
+            "name": "Dinosaur Jr.",
+            "type": "artist",
+            "uri": "spotify:artist:267VY6GX5LyU5c9M85ECZQ"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HN",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SK",
+          "SV",
+          "TR",
+          "US",
+          "UY"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/26vGmf4YJOmS1kZK4RJ2EB"
+        },
+        "href": "https://api.spotify.com/v1/albums/26vGmf4YJOmS1kZK4RJ2EB",
+        "id": "26vGmf4YJOmS1kZK4RJ2EB",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/bc18f0e07ef6bab0147b1fa156d1084ef027385a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/820151967bb6ca7147338dd8716134d7ea139d65",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/a4797a61a7e8f5b29b89784ea199ed18ce67b579",
+            "width": 64
+          }
+        ],
+        "name": "Give a Glimpse of What Yer Not",
+        "type": "album",
+        "uri": "spotify:album:26vGmf4YJOmS1kZK4RJ2EB"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/267VY6GX5LyU5c9M85ECZQ",
+            "id": "267VY6GX5LyU5c9M85ECZQ",
+            "name": "Dinosaur Jr.",
+            "type": "artist",
+            "uri": "spotify:artist:267VY6GX5LyU5c9M85ECZQ"
+          }
+        ],
+        "available_markets": [
+          "US"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0u6BE2zLv1vBqe5hu92rse"
+        },
+        "href": "https://api.spotify.com/v1/albums/0u6BE2zLv1vBqe5hu92rse",
+        "id": "0u6BE2zLv1vBqe5hu92rse",
+        "images": [
+          {
+            "height": 634,
+            "url": "https://i.scdn.co/image/890a9a470b614e92345a7ee46fc2558c43c30928",
+            "width": 640
+          },
+          {
+            "height": 297,
+            "url": "https://i.scdn.co/image/f878083f2431f5878a7a79040b40eff020ac2eb7",
+            "width": 300
+          },
+          {
+            "height": 63,
+            "url": "https://i.scdn.co/image/5058ab20b49be9b36d15121dc6ab1ed0653a98f1",
+            "width": 64
+          }
+        ],
+        "name": "Without A Sound",
+        "type": "album",
+        "uri": "spotify:album:0u6BE2zLv1vBqe5hu92rse"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/267VY6GX5LyU5c9M85ECZQ",
+            "id": "267VY6GX5LyU5c9M85ECZQ",
+            "name": "Dinosaur Jr.",
+            "type": "artist",
+            "uri": "spotify:artist:267VY6GX5LyU5c9M85ECZQ"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "AU",
+          "BO",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "CR",
+          "DO",
+          "EC",
+          "GT",
+          "HK",
+          "HN",
+          "ID",
+          "JP",
+          "MX",
+          "MY",
+          "NI",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PY",
+          "SG",
+          "SV",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7LpjAJON4CNX6PmY9SICs3"
+        },
+        "href": "https://api.spotify.com/v1/albums/7LpjAJON4CNX6PmY9SICs3",
+        "id": "7LpjAJON4CNX6PmY9SICs3",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/23c41fec5f77e92780079ecb2692cff3a221ac83",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/7fa16eec6eccc6473f195818f1a086b315a4a310",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/1d0eff16c6ec886750642a237004dcd3b04b62be",
+            "width": 64
+          }
+        ],
+        "name": "You're Living All Over Me",
+        "type": "album",
+        "uri": "spotify:album:7LpjAJON4CNX6PmY9SICs3"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/267VY6GX5LyU5c9M85ECZQ",
+            "id": "267VY6GX5LyU5c9M85ECZQ",
+            "name": "Dinosaur Jr.",
+            "type": "artist",
+            "uri": "spotify:artist:267VY6GX5LyU5c9M85ECZQ"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1qeu2eJJWAn1cLSW0EOZij"
+        },
+        "href": "https://api.spotify.com/v1/albums/1qeu2eJJWAn1cLSW0EOZij",
+        "id": "1qeu2eJJWAn1cLSW0EOZij",
+        "images": [
+          {
+            "height": 636,
+            "url": "https://i.scdn.co/image/85944ed2abb8174a3ba933e216f17645c7e9b9c1",
+            "width": 640
+          },
+          {
+            "height": 298,
+            "url": "https://i.scdn.co/image/38fd8582a7d0419b413da312b72ebca829c99968",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/fce4c9dbe6988fc0391bf8d07ad2f274229c07ae",
+            "width": 64
+          }
+        ],
+        "name": "Where You Been [Digital Version] [with Bonus Track]",
+        "type": "album",
+        "uri": "spotify:album:1qeu2eJJWAn1cLSW0EOZij"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/267VY6GX5LyU5c9M85ECZQ",
+            "id": "267VY6GX5LyU5c9M85ECZQ",
+            "name": "Dinosaur Jr.",
+            "type": "artist",
+            "uri": "spotify:artist:267VY6GX5LyU5c9M85ECZQ"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "MX",
+          "US"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4QA7vQdcYCPgtVxtyEt0Hy"
+        },
+        "href": "https://api.spotify.com/v1/albums/4QA7vQdcYCPgtVxtyEt0Hy",
+        "id": "4QA7vQdcYCPgtVxtyEt0Hy",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/cb7951a9a6a4c219ae5a36516c14eef6617e9f78",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/c46361be8773b9d2d95b9da98b2a8917e1527157",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/df9a00caf23b5226bece9b945968ee13094f3b70",
+            "width": 64
+          }
+        ],
+        "name": "Farm",
+        "type": "album",
+        "uri": "spotify:album:4QA7vQdcYCPgtVxtyEt0Hy"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/267VY6GX5LyU5c9M85ECZQ",
+            "id": "267VY6GX5LyU5c9M85ECZQ",
+            "name": "Dinosaur Jr.",
+            "type": "artist",
+            "uri": "spotify:artist:267VY6GX5LyU5c9M85ECZQ"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5HiuhXPKoqX0UThOvGuTKd"
+        },
+        "href": "https://api.spotify.com/v1/albums/5HiuhXPKoqX0UThOvGuTKd",
+        "id": "5HiuhXPKoqX0UThOvGuTKd",
+        "images": [
+          {
+            "height": 638,
+            "url": "https://i.scdn.co/image/08b98d93dd196be746d34a215f70d73dbddafa9f",
+            "width": 640
+          },
+          {
+            "height": 299,
+            "url": "https://i.scdn.co/image/907a8acfa8e8fcce35821f03cb602becfb2bb7cf",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/20cae295cada0628bb934878624bd725aacb01b8",
+            "width": 64
+          }
+        ],
+        "name": "Green Mind [Digital Version] [with Bonus Tracks]",
+        "type": "album",
+        "uri": "spotify:album:5HiuhXPKoqX0UThOvGuTKd"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/267VY6GX5LyU5c9M85ECZQ",
+            "id": "267VY6GX5LyU5c9M85ECZQ",
+            "name": "Dinosaur Jr.",
+            "type": "artist",
+            "uri": "spotify:artist:267VY6GX5LyU5c9M85ECZQ"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "MX",
+          "US"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4jw52weSeOX11wFltgwGAK"
+        },
+        "href": "https://api.spotify.com/v1/albums/4jw52weSeOX11wFltgwGAK",
+        "id": "4jw52weSeOX11wFltgwGAK",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/750eea999142b7a8ad4cc7c5c02dbb8c948cfc70",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/de081a6d316c92d282c5305677e937c0fb641240",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/4e49f581ca40f7f6959f888d629b510a55c6c3e6",
+            "width": 64
+          }
+        ],
+        "name": "Beyond",
+        "type": "album",
+        "uri": "spotify:album:4jw52weSeOX11wFltgwGAK"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/267VY6GX5LyU5c9M85ECZQ",
+            "id": "267VY6GX5LyU5c9M85ECZQ",
+            "name": "Dinosaur Jr.",
+            "type": "artist",
+            "uri": "spotify:artist:267VY6GX5LyU5c9M85ECZQ"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "MX",
+          "US"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/68sloliGYuMhzxciy0XSSo"
+        },
+        "href": "https://api.spotify.com/v1/albums/68sloliGYuMhzxciy0XSSo",
+        "id": "68sloliGYuMhzxciy0XSSo",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/26ad14541039a638beb2206840b3662e50e64251",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/b9bfc6dee81aac43e9ab1bb7406ff2f2e2146117",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/9819bb79e21e2cea4df11cafa5825c569a76abef",
+            "width": 64
+          }
+        ],
+        "name": "I Bet On Sky",
+        "type": "album",
+        "uri": "spotify:album:68sloliGYuMhzxciy0XSSo"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/267VY6GX5LyU5c9M85ECZQ",
+            "id": "267VY6GX5LyU5c9M85ECZQ",
+            "name": "Dinosaur Jr.",
+            "type": "artist",
+            "uri": "spotify:artist:267VY6GX5LyU5c9M85ECZQ"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "AU",
+          "BO",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "CR",
+          "DO",
+          "EC",
+          "GT",
+          "HK",
+          "HN",
+          "ID",
+          "JP",
+          "MX",
+          "MY",
+          "NI",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PY",
+          "SG",
+          "SV",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3qyW9uFZskhChIgwyrIh0i"
+        },
+        "href": "https://api.spotify.com/v1/albums/3qyW9uFZskhChIgwyrIh0i",
+        "id": "3qyW9uFZskhChIgwyrIh0i",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/57662779f786d876b5437bc9a151e6358777fd87",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/66114d788d90dc2057cfb47057779ac2d1aecbd3",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/4569ccc2d16948b8830035c19483a5cebbcb549a",
+            "width": 64
+          }
+        ],
+        "name": "Bug",
+        "type": "album",
+        "uri": "spotify:album:3qyW9uFZskhChIgwyrIh0i"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/267VY6GX5LyU5c9M85ECZQ",
+            "id": "267VY6GX5LyU5c9M85ECZQ",
+            "name": "Dinosaur Jr.",
+            "type": "artist",
+            "uri": "spotify:artist:267VY6GX5LyU5c9M85ECZQ"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "AU",
+          "BO",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "CR",
+          "DO",
+          "EC",
+          "GT",
+          "HK",
+          "HN",
+          "ID",
+          "JP",
+          "MX",
+          "MY",
+          "NI",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PY",
+          "SG",
+          "SV",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7qnlfcAiWrrLewKHsr0Yjy"
+        },
+        "href": "https://api.spotify.com/v1/albums/7qnlfcAiWrrLewKHsr0Yjy",
+        "id": "7qnlfcAiWrrLewKHsr0Yjy",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/739d282461ae445e8c638c60f1eccb8d7eea0e50",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/5d928d30a8d22cd308ccaee6ec9461243f631898",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/a3df75b560cbcc7e89b8940e773610fcef158e04",
+            "width": 64
+          }
+        ],
+        "name": "Dinosaur",
+        "type": "album",
+        "uri": "spotify:album:7qnlfcAiWrrLewKHsr0Yjy"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/267VY6GX5LyU5c9M85ECZQ",
+            "id": "267VY6GX5LyU5c9M85ECZQ",
+            "name": "Dinosaur Jr.",
+            "type": "artist",
+            "uri": "spotify:artist:267VY6GX5LyU5c9M85ECZQ"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6MAGEWKpoo4EWg1e0fdSlJ"
+        },
+        "href": "https://api.spotify.com/v1/albums/6MAGEWKpoo4EWg1e0fdSlJ",
+        "id": "6MAGEWKpoo4EWg1e0fdSlJ",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/2c6cdc8bd4e31af8a2ee4eed5e79b259643941d3",
+            "width": 637
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/0a1f6a9fe42a4a22afbdeabbb10eaaf3ea830da4",
+            "width": 299
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/1941fbb0300aa0d661e429cc03b845ef42fbd253",
+            "width": 64
+          }
+        ],
+        "name": "Hand It Over",
+        "type": "album",
+        "uri": "spotify:album:6MAGEWKpoo4EWg1e0fdSlJ"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/267VY6GX5LyU5c9M85ECZQ",
+            "id": "267VY6GX5LyU5c9M85ECZQ",
+            "name": "Dinosaur Jr.",
+            "type": "artist",
+            "uri": "spotify:artist:267VY6GX5LyU5c9M85ECZQ"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "CR",
+          "DO",
+          "GT",
+          "HN",
+          "MX",
+          "NI",
+          "PA",
+          "SV",
+          "US"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0Y2ZiPbfY0HSCen5mFdE5x"
+        },
+        "href": "https://api.spotify.com/v1/albums/0Y2ZiPbfY0HSCen5mFdE5x",
+        "id": "0Y2ZiPbfY0HSCen5mFdE5x",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/065a2772965e9f452e6797615cc324a62de42427",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/3323c9debc28007bcb86da3c8ef93db996132c72",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ad05514458134fbf5528bf18a2aacb843c5c75eb",
+            "width": 64
+          }
+        ],
+        "name": "Chocomel Daze (Live 1987)",
+        "type": "album",
+        "uri": "spotify:album:0Y2ZiPbfY0HSCen5mFdE5x"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/267VY6GX5LyU5c9M85ECZQ",
+            "id": "267VY6GX5LyU5c9M85ECZQ",
+            "name": "Dinosaur Jr.",
+            "type": "artist",
+            "uri": "spotify:artist:267VY6GX5LyU5c9M85ECZQ"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5pPpTZz4kt9bKTwUoA4Z8d"
+        },
+        "href": "https://api.spotify.com/v1/albums/5pPpTZz4kt9bKTwUoA4Z8d",
+        "id": "5pPpTZz4kt9bKTwUoA4Z8d",
+        "images": [
+          {
+            "height": 633,
+            "url": "https://i.scdn.co/image/1b12d983007717e785b6718e69fb3f58e40056fb",
+            "width": 640
+          },
+          {
+            "height": 297,
+            "url": "https://i.scdn.co/image/a4f4806794f70b2bd6a5cc5121c8fb15e4d0df91",
+            "width": 300
+          },
+          {
+            "height": 63,
+            "url": "https://i.scdn.co/image/63a541ce16676e7a8e6ba4402dd801d15e653b4f",
+            "width": 64
+          }
+        ],
+        "name": "Whatever's Cool With Me",
+        "type": "album",
+        "uri": "spotify:album:5pPpTZz4kt9bKTwUoA4Z8d"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/267VY6GX5LyU5c9M85ECZQ",
+            "id": "267VY6GX5LyU5c9M85ECZQ",
+            "name": "Dinosaur Jr.",
+            "type": "artist",
+            "uri": "spotify:artist:267VY6GX5LyU5c9M85ECZQ"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/000MN0Xl8974ZvTidEQkSE"
+        },
+        "href": "https://api.spotify.com/v1/albums/000MN0Xl8974ZvTidEQkSE",
+        "id": "000MN0Xl8974ZvTidEQkSE",
+        "images": [
+          {
+            "height": 636,
+            "url": "https://i.scdn.co/image/ac64ab9b18c8fe667009cf7ccc832d531fec906f",
+            "width": 640
+          },
+          {
+            "height": 298,
+            "url": "https://i.scdn.co/image/54f53170f88943345b03bee4f1d6eb217da2e711",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/6f40d021f424b1148c75dcae6afa470a37331b67",
+            "width": 64
+          }
+        ],
+        "name": "J Mascis Live At CBGB's: The First Acoustic Show",
+        "type": "album",
+        "uri": "spotify:album:000MN0Xl8974ZvTidEQkSE"
+      },
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/267VY6GX5LyU5c9M85ECZQ",
+            "id": "267VY6GX5LyU5c9M85ECZQ",
+            "name": "Dinosaur Jr.",
+            "type": "artist",
+            "uri": "spotify:artist:267VY6GX5LyU5c9M85ECZQ"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HN",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SK",
+          "SV",
+          "TR",
+          "US",
+          "UY"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5cjq4oFZMpOEGHLlsGPFOh"
+        },
+        "href": "https://api.spotify.com/v1/albums/5cjq4oFZMpOEGHLlsGPFOh",
+        "id": "5cjq4oFZMpOEGHLlsGPFOh",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/bc18f0e07ef6bab0147b1fa156d1084ef027385a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/820151967bb6ca7147338dd8716134d7ea139d65",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/a4797a61a7e8f5b29b89784ea199ed18ce67b579",
+            "width": 64
+          }
+        ],
+        "name": "Tiny",
+        "type": "album",
+        "uri": "spotify:album:5cjq4oFZMpOEGHLlsGPFOh"
+      },
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/267VY6GX5LyU5c9M85ECZQ",
+            "id": "267VY6GX5LyU5c9M85ECZQ",
+            "name": "Dinosaur Jr.",
+            "type": "artist",
+            "uri": "spotify:artist:267VY6GX5LyU5c9M85ECZQ"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HN",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SK",
+          "SV",
+          "TR",
+          "US",
+          "UY"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7flC4qN744pR5sLL8eZHSI"
+        },
+        "href": "https://api.spotify.com/v1/albums/7flC4qN744pR5sLL8eZHSI",
+        "id": "7flC4qN744pR5sLL8eZHSI",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/bc18f0e07ef6bab0147b1fa156d1084ef027385a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/820151967bb6ca7147338dd8716134d7ea139d65",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/a4797a61a7e8f5b29b89784ea199ed18ce67b579",
+            "width": 64
+          }
+        ],
+        "name": "Goin Down",
+        "type": "album",
+        "uri": "spotify:album:7flC4qN744pR5sLL8eZHSI"
+      },
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/267VY6GX5LyU5c9M85ECZQ",
+            "id": "267VY6GX5LyU5c9M85ECZQ",
+            "name": "Dinosaur Jr.",
+            "type": "artist",
+            "uri": "spotify:artist:267VY6GX5LyU5c9M85ECZQ"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "MX",
+          "US"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2iyaiulTA3xpEunHA218M0"
+        },
+        "href": "https://api.spotify.com/v1/albums/2iyaiulTA3xpEunHA218M0",
+        "id": "2iyaiulTA3xpEunHA218M0",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/e7d041f45fab3451e904596a2385aafa5afde830",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/c0a81cfa3b2d7c75c7b228e4aef4755fdb61acba",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/6e4f5d4dd5c4917ffd1d85d245f029b4cb9905f7",
+            "width": 64
+          }
+        ],
+        "name": "Now The Fall b/w Ricochet",
+        "type": "album",
+        "uri": "spotify:album:2iyaiulTA3xpEunHA218M0"
+      },
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/267VY6GX5LyU5c9M85ECZQ",
+            "id": "267VY6GX5LyU5c9M85ECZQ",
+            "name": "Dinosaur Jr.",
+            "type": "artist",
+            "uri": "spotify:artist:267VY6GX5LyU5c9M85ECZQ"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HN",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SK",
+          "SV",
+          "TR",
+          "US",
+          "UY"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5co40WEWFe8bjCV2ffUYfE"
+        },
+        "href": "https://api.spotify.com/v1/albums/5co40WEWFe8bjCV2ffUYfE",
+        "id": "5co40WEWFe8bjCV2ffUYfE",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/d143222d74175445a96f6f5a5935d07aa9e2aca4",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/6f1fa88c6dade16461fa555728bde981461ac6ab",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/92f315376387b7552b03788a3c4f821bfcd609c8",
+            "width": 64
+          }
+        ],
+        "name": "Pieces b/w Houses",
+        "type": "album",
+        "uri": "spotify:album:5co40WEWFe8bjCV2ffUYfE"
+      }
+    ],
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 18
+  }
+}
